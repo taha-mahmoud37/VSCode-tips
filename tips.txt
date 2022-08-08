@@ -1,4 +1,4 @@
-vscode productivity tips 
+VSCode productivity tips 
 
 CTRL+ B = to search for any file in your project
 CTRL+ ` = to open terminal in your project
