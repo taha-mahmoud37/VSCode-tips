@@ -1,0 +1,32 @@
+vscode productivity tips 
+
+CTRL+ B = to search for any file in your project
+CTRL+ ` = to open terminal in your project
+CTRL+SHIFT+` = Create a new terminal instance
+CTRL+ F = to find tha text on the file 
+CTRL+ G = go to line you want
+CTRL+ D = find words match
+ALT + up or dwon arrow = move line you select up or dwon
+ALT + shift + up or dwon arrow = move line and copy 
+ctrl + SHIFT+ right or dwon left = select word by word
+CTRL+ K = clear terminal
+CTRL+ number = move between files
+CTRL+ K + W  = closing all files 
+ctrl + H = find and replace 
+CTRL+S = save your file
+CTRL+SHIFT+P = show the command palette
+CTRL+k CTRL+T = show the lists of themes
+CTRL+T = Finding a class, function or variable in all files.
+CTRL+L = Select the current line in the cursor.
+CTRL+K CTRL+U = Uncomment a block of code
+Ctrl+K CTRL+S = Go to keyboard shortcuts
+CTRL+ =  Zoom In
+CTRL+ - =  Zoom Out
+CTRL+, = Go to user settings
+CTRL+R = Reload window
+CTRL+B = Toggle Sidebar
+CTRL+SHIFT+X = Show Extensions
+CTRL+SHIFT+G = Show Source Control
+CTRL+SHIFT+E = Show File Explorer
+CTRL+SHIFT+D = Show Debug
+CTRL+SHIFT+V = Preview Markdown
